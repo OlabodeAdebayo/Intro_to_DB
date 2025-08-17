@@ -1,4 +1,8 @@
-CREATE TABLE books ();
+CREATE TABLE books (
+  Authors,
+  author_id,
+  author_name
+);
 
 CREATE TABLE authors ();
 
