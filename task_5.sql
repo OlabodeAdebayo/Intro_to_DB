@@ -1,4 +1,4 @@
-INSERT INTO Customer (
+INSERT INTO customer (
   customer_id: "1",
   customer_name: "Cole Baidoo",
   email: "cbaidoo@sandtech.com",
