@@ -1,14 +1,14 @@
-CREATE TABLE books (
-
-);
-
-CREATE TABLE authors (
+CREATE TABLE Authors (
   author_id INT AUTO_INCREMENT PRIMARY KEY,
   author_name VARCHAR(215) NOT NULL
 );
 
-CREATE TABLE customers ();
+CREATE TABLE Books (
 
-CREATE TABLE orders ();
+);
 
-CREATE TABLE orderdetails();
+CREATE TABLE Customers ();
+
+CREATE TABLE Orders ();
+
+CREATE TABLE Order_Details();
